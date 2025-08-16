@@ -1,0 +1,13 @@
+<resources>
+    <string-array name="priorities">
+        <item>Basse</item>
+        <item>Moyenne</item>
+        <item>Haute</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>Travail</item>
+        <item>Personnel</item>
+        <item>Urgent</item>
+    </string-array>
+</resources>
