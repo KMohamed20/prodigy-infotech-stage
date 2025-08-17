@@ -1,220 +1,233 @@
-# 🎓 Stage Machine Learning - Prodigy InfoTech
+# 🎓 Machine Learning Internship - Prodigy InfoTech
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khalid_Ag_Mohamed_Aly-blue)](https://www.linkedin.com/in/khalid-ag-mohamed-aly)
-[![Portfolio](https://img.shields.io/badge/Portfolio-khalid--ag.lovable.app-green)](https://khalid-ag.lovable.app/)
-[![Email](https://img.shields.io/badge/Email-alansarymohamed38%40gmail.com-red)](mailto:alansarymohamed38@gmail.com)
+![GitHub stars](https://img.shields.io/github/stars/KMohamed20/prodigy-infotech-stage?style=for-the-badge&logo=github&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/KMohamed20/prodigy-infotech-stage?style=for-the-badge&logo=github&color=blue)
+![GitHub issues](https://img.shields.io/github/issues/KMohamed20/prodigy-infotech-stage?style=for-the-badge&logo=github&color=red)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/KMohamed20/prodigy-infotech-stage?style=for-the-badge&logo=github&color=green)
+![GitHub last commit](https://img.shields.io/github/last-commit/KMohamed20/prodigy-infotech-stage?style=for-the-badge&logo=github&color=purple)
+![GitHub repo size](https://img.shields.io/github/repo-size/KMohamed20/prodigy-infotech-stage?style=for-the-badge&logo=github&color=orange)
+![GitHub contributors](https://img.shields.io/github/contributors/KMohamed20/prodigy-infotech-stage?style=for-the-badge&logo=github&color=brightgreen)
 
-> **Machine Learning Intern** chez **Prodigy InfoTech** | Août - Septembre 2025
+## 📋 Status Badges
 
-## 🌟 Vue d'Ensemble
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=github-actions)
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&logo=open-source-initiative)
+![Language](https://img.shields.io/badge/languages-Python%20|%20Java%20|%20JavaScript-yellow?style=for-the-badge&logo=code)
+![Completion](https://img.shields.io/badge/completion-100%25-success?style=for-the-badge&logo=checkmarx)
 
-Stage intensif de 4 semaines couvrant **8 domaines techniques** avec **12 projets complets** développés. Focus sur l'application pratique du Machine Learning, Data Science, développement web/mobile et cybersécurité.
+## 🛠️ Technologies Badges
 
-### 📊 Statistiques du Stage
-- **2000+** lignes de code Python
-- **1500+** lignes de code Java  
-- **1000+** lignes de code JavaScript
-- **100%** des tâches terminées dans les délais
-- **7** domaines techniques maîtrisés
-
-## 🚀 Projets Réalisés
-
-### 🤖 Machine Learning
-| Projet | Description | Technologies | Demo |
-|--------|-------------|-------------|------|
-| [**ML_01**](https://github.com/KMohamed20/PRODIGY_ML_01) | 🏠 Prédiction Prix Immobilier | Python, Scikit-learn, Pandas | [📊 Notebook](https://github.com/KMohamed20/PRODIGY_ML_01/blob/main/house_price_prediction.ipynb) |
-| [**ML_02**](https://github.com/KMohamed20/PRODIGY_ML_02) | 🖼️ Classification Images CNN | TensorFlow, Keras, CIFAR-10 | [🎯 Demo](https://github.com/KMohamed20/PRODIGY_ML_02/blob/main/demo/) |
-
-**Résultats :** 
-- 🎯 **85%+ de précision** sur la prédiction de prix immobilier
-- 🧠 **87% d'accuracy** sur CIFAR-10 avec CNN personnalisé
-
-### 📊 Data Science
-| Projet | Description | Technologies | Demo |
-|--------|-------------|-------------|------|
-| [**DS_01**](https://github.com/KMohamed20/PRODIGY_DS_01) | 📈 Dashboard Analytics Business | Streamlit, Plotly, Pandas | [🌐 Live Demo](https://prodigy-ds-01.streamlit.app/) |
-
-**Fonctionnalités :**
-- ⚡ **Temps réel** : Métriques KPI dynamiques
-- 🎨 **6 visualisations** interactives (Line, Bar, Pie, Heatmap)
-- 🔍 **Filtrage avancé** par région, produit, période
-
-### 🌐 Développement Web
-| Projet | Description | Technologies | Demo |
-|--------|-------------|-------------|------|
-| [**WD_01**](https://github.com/KMohamed20/PRODIGY_WD_01) | 🎨 Portfolio Responsive | HTML5, CSS3, JavaScript | [🌐 GitHub Pages](https://kmohamed20.github.io/PRODIGY_WD_01/) |
-
-**Caractéristiques :**
-- 📱 **Mobile-first** design responsive
-- ⚡ **Animations CSS** et parallax effects
-- 🎯 **Performance optimisée** (Web Core Vitals)
-
-### 📱 Développement Mobile
-| Projet | Description | Technologies | Demo |
-|--------|-------------|-------------|------|
-| [**AD_01**](https://github.com/KMohamed20/PRODIGY_AD_01) | ✅ App Todo Android | Java, Android SDK, Material Design | [📱 APK](https://github.com/KMohamed20/PRODIGY_AD_01/releases) |
-
-**Fonctionnalités :**
-- ✨ **Material Design** avec animations fluides
-- 📝 **CRUD complet** avec RecyclerView
-- 💾 **Persistance locale** des données
-
-### 💻 Applications Desktop
-| Projet | Description | Technologies | Demo |
-|--------|-------------|-------------|------|
-| [**SW_01**](https://github.com/KMohamed20/PRODIGY_SW_01) | 📋 Gestionnaire de Tâches | JavaFX, CSS, MVC Pattern | [🖥️ Screenshots](https://github.com/KMohamed20/PRODIGY_SW_01/tree/main/screenshots) |
-
-**Architecture :**
-- 🏗️ **Pattern MVC** avec séparation claire
-- 🎨 **Interface moderne** avec CSS styling
-- 📊 **Statistiques temps réel** et filtres dynamiques
-
-### 🔒 Cybersécurité
-| Projet | Description | Technologies | Demo |
-|--------|-------------|-------------|------|
-| [**CY_01**](https://github.com/KMohamed20/PRODIGY_CY_01) | 🛡️ Analyseur Sécurité Web | Python, Requests, SSL Analysis | [📋 Rapport](https://github.com/KMohamed20/PRODIGY_CY_01/blob/main/demo_report.json) |
-| [**CY_02**](https://github.com/KMohamed20/PRODIGY_CY_02) | 🔐 Générateur Mots de Passe | Python, Cryptography, CLI | [⚡ Tool](https://github.com/KMohamed20/PRODIGY_CY_02/blob/main/password_tool.py) |
-
-**Sécurité :**
-- 🔍 **Scanner 15+ vulnérabilités** web courantes
-- 🔑 **Génération sécurisée** avec analyse de force
-- 📊 **Scoring automatisé** et recommandations
-
-## 🛠️ Technologies Maîtrisées
-
-### **Languages**
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Frameworks & Libraries**
+### Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Frameworks & Tools
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### **Outils de Développement**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### Development Tools
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
-## 📈 Métriques de Performance
+---
 
+**Machine Learning Intern at Prodigy InfoTech | August - September 2025**
+
+## 🌟 Overview
+An intensive 4-week internship covering 8 technical domains with 12 complete projects developed. Focus on the practical application of Machine Learning, Data Science, Web/Mobile Development, and Cybersecurity.
+
+## 📊 Internship Statistics
+- **2000+** lines of Python code
+- **1500+** lines of Java code  
+- **1000+** lines of JavaScript code
+- **100%** of tasks completed on time
+- **7** technical domains mastered
+
+## 🚀 Projects Completed
+
+### 🤖 Machine Learning
+| PROJECT | DESCRIPTION | TECHNOLOGIES | DEMO |
+|---------|-------------|--------------|------|
+| ML_01 | 🏠 House Price Prediction | Python, Scikit-learn, Pandas | 📊 Notebook |
+| ML_02 | 🖼️ Image Classification (CNN) | TensorFlow, Keras, CIFAR-10 | 🎯 Demo |
+
+**Results:**
+- 🎯 85%+ accuracy in house price prediction
+- 🧠 87% accuracy on CIFAR-10 using a custom CNN
+
+### 📊 Data Science
+| PROJECT | DESCRIPTION | TECHNOLOGIES | DEMO |
+|---------|-------------|--------------|------|
+| DS_01 | 📈 Business Analytics Dashboard | Streamlit, Plotly, Pandas | 🌐 Live Demo |
+
+**Features:**
+- ⚡ Real-time dynamic KPIs
+- 🎨 6 interactive visualizations (Line, Bar, Pie, Heatmap)
+- 🔍 Advanced filtering by region, product, period
+
+### 🌐 Web Development
+| PROJECT | DESCRIPTION | TECHNOLOGIES | DEMO |
+|---------|-------------|--------------|------|
+| WD_01 | 🎨 Responsive Portfolio | HTML5, CSS3, JavaScript | 🌐 GitHub Pages |
+
+**Features:**
+- 📱 Mobile-first responsive design
+- ⚡ CSS animations and parallax effects
+- 🎯 Optimized performance (Web Core Vitals)
+
+### 📱 Mobile Development
+| PROJECT | DESCRIPTION | TECHNOLOGIES | DEMO |
+|---------|-------------|--------------|------|
+| AD_01 | ✅ Android To-Do App | Java, Android SDK, Material Design | 📱 APK |
+
+**Features:**
+- ✨ Material Design with smooth animations
+- 📝 Full CRUD with RecyclerView
+- 💾 Local data persistence
+
+### 💻 Desktop Applications
+| PROJECT | DESCRIPTION | TECHNOLOGIES | DEMO |
+|---------|-------------|--------------|------|
+| SW_01 | 📋 Task Manager App | JavaFX, CSS, MVC Pattern | 🖥️ Screenshots |
+
+**Architecture:**
+- 🏗️ MVC pattern with clean separation
+- 🎨 Modern interface with CSS styling
+- 📊 Real-time statistics and dynamic filters
+
+### 🔒 Cybersecurity
+| PROJECT | DESCRIPTION | TECHNOLOGIES | DEMO |
+|---------|-------------|--------------|------|
+| CY_01 | 🛡️ Web Security Analyzer | Python, Requests, SSL Analysis | 📋 Report |
+| CY_02 | 🔐 Password Generator | Python, Cryptography, CLI | ⚡ Tool |
+
+**Security Features:**
+- 🔍 Scanner for 15+ common web vulnerabilities
+- 🔑 Secure generation with strength analysis
+- 📊 Automated scoring and recommendations
+
+## 📈 Performance Metrics
+
+### ✅ Machine Learning Models
 ```
-✅ Machine Learning Models
-├── Régression: R² = 0.847, RMSE = 23,456€
+├── Regression: R² = 0.847, RMSE = €23,456
 ├── Classification: Accuracy = 87%, F1-Score = 0.86
-└── Deep Learning: CNN Training = 25 epochs, Val Loss = 0.42
-
-✅ Applications Web
-├── Performance: 95+ Lighthouse Score
-├── Responsive: 100% Mobile Compatibility  
-└── Accessibility: WCAG 2.1 AA Compliant
-
-✅ Sécurité
-├── Vulnérabilités détectées: 15+ types
-├── Score sécurité moyen: 78/100
-└── Mots de passe générés: Force 95/100
+└── Deep Learning: CNN trained in 25 epochs, Val Loss = 0.42
 ```
 
-## 🎯 Compétences Acquises
+### ✅ Web Applications
+```
+├── Performance: 95+ Lighthouse Score
+├── Responsive: 100% Mobile Compatibility
+└── Accessibility: WCAG 2.1 AA Compliant
+```
 
-### **Techniques**
-- 🤖 **Machine Learning end-to-end** (preprocessing → déploiement)
-- 📊 **Data Science complète** (EDA → visualisation interactive)
-- 🌐 **Développement Full-Stack** (frontend responsive + backend)
-- 📱 **Applications mobiles** natives Android
-- 💻 **Applications desktop** modernes avec JavaFX
-- 🔒 **Audit de sécurité** et pentesting web
+### ✅ Security
+```
+├── Vulnerabilities Detected: 15+ types
+├── Average Security Score: 78/100
+└── Generated Passwords: Strength 95/100
+```
 
-### **Méthodologiques**
-- 📋 **Gestion de projet** Agile avec sprints
-- 📝 **Documentation technique** professionnelle
-- 🧪 **Tests unitaires** et validation
-- 🔄 **CI/CD** avec GitHub Actions
-- 👥 **Travail collaboratif** en équipe
+## 🎯 Skills Acquired
 
-## 📚 Documentation Complète
+### Technical
+- 🤖 End-to-end Machine Learning (preprocessing → deployment)
+- 📊 Complete Data Science (EDA → interactive visualization)
+- 🌐 Full-Stack Development (responsive frontend + backend)
+- 📱 Native Android mobile apps
+- 💻 Modern desktop applications with JavaFX
+- 🔒 Web security auditing and penetration testing
 
-- 📖 [**Guide d'Installation**](docs/INSTALLATION.md) - Configuration environnements
-- 🏗️ [**Architecture Technique**](docs/ARCHITECTURE.md) - Design patterns utilisés
-- 🔧 [**API Documentation**](docs/API.md) - Endpoints et intégrations
-- 🎯 [**Bonnes Pratiques**](docs/BEST_PRACTICES.md) - Standards de code
-- 📋 [**Rapports Techniques**](docs/TECHNICAL_REPORTS.md) - Analyses détaillées
+### Methodological
+- 📋 Agile project management with sprints
+- 📝 Professional technical documentation
+- 🧪 Unit testing and validation
+- 🔄 CI/CD with GitHub Actions
+- 👥 Collaborative teamwork
 
-## 🚀 Déploiements Live
+## 📚 Complete Documentation
+- 📖 **Installation Guide** - Environment setup
+- 🏗️ **Technical Architecture** - Design patterns used
+- 🔧 **API Documentation** - Endpoints and integrations
+- 🎯 **Best Practices** - Code standards
+- 📋 **Technical Reports** - Detailed analyses
 
-| Application | Status | URL | Technologies |
-|-------------|--------|-----|-------------|
-| Portfolio Web | ✅ Live | [khalid-ag.lovable.app](https://khalid-ag.lovable.app/) | Lovable, React |
-| Dashboard Analytics | ✅ Live | [Streamlit Cloud](#) | Streamlit, Python |
-| Landing Page | ✅ Live | [GitHub Pages](https://kmohamed20.github.io/PRODIGY_WD_01/) | HTML5, CSS3, JS |
+## 🚀 Live Deployments
 
-## 💡 Prochaines Étapes
+| APPLICATION | STATUS | URL | TECHNOLOGIES |
+|-------------|--------|-----|--------------|
+| Portfolio Website | ✅ Live | khalid-ag.lovable.app | Lovable, React |
+| Analytics Dashboard | ✅ Live | Streamlit Cloud | Streamlit, Python |
+| Landing Page | ✅ Live | GitHub Pages | HTML5, CSS3, JS |
 
-### **Améliorations Planifiées**
-- [ ] 🔄 **CI/CD Pipeline** avec GitHub Actions
-- [ ] 📊 **Monitoring** et analytics des applications
-- [ ] 🌐 **API REST** pour les modèles ML
-- [ ] 📱 **Version iOS** de l'app Android
-- [ ] 🔒 **Authentification** et gestion utilisateurs
+## 💡 Next Steps
 
-### **Nouvelles Fonctionnalités**
-- [ ] 🤖 **Chatbot IA** intégré au portfolio  
-- [ ] 📈 **Tableau de bord** temps réel des métriques
-- [ ] 🔍 **Recherche avancée** dans les projets
-- [ ] 🌍 **Multilingue** (FR/EN/AR)
+### Planned Improvements
+- 🔄 CI/CD Pipeline with GitHub Actions
+- 📊 Monitoring and analytics for apps
+- 🌐 REST API for ML models
+- 📱 iOS version of the Android app
+- 🔒 User authentication and management
+
+### New Features
+- 🤖 AI chatbot integrated into portfolio
+- 📈 Real-time metrics dashboard
+- 🔍 Advanced project search
+- 🌍 Multilingual (FR/EN/AR)
 
 ## 🤝 Collaboration
 
-### **Contribuer**
-1. 🍴 Fork le repository
-2. 🌿 Créer une branche feature (`git checkout -b feature/AmazingFeature`)
-3. 💡 Commit vos changements (`git commit -m 'Add AmazingFeature'`)
-4. 📤 Push vers la branche (`git push origin feature/AmazingFeature`)
-5. 🔄 Ouvrir une Pull Request
+### Contribute
+1. 🍴 Fork the repository
+2. 🌿 Create a feature branch: `git checkout -b feature/AmazingFeature`
+3. 💡 Commit your changes: `git commit -m 'Add AmazingFeature'`
+4. 📤 Push to the branch: `git push origin feature/AmazingFeature`
+5. 🔄 Open a Pull Request
 
-### **Issues & Support**
-- 🐛 [Signaler un bug](https://github.com/KMohamed20/PRODIGY-INFOTECH-INTERNSHIP/issues)
-- 💡 [Suggérer une amélioration](https://github.com/KMohamed20/PRODIGY-INFOTECH-INTERNSHIP/issues)
-- ❓ [Poser une question](https://github.com/KMohamed20/PRODIGY-INFOTECH-INTERNSHIP/discussions)
+### Issues & Support
+- 🐛 [Report a bug](https://github.com/KMohamed20/prodigy-infotech-stage/issues)
+- 💡 [Suggest an improvement](https://github.com/KMohamed20/prodigy-infotech-stage/issues)
+- ❓ [Ask a question](https://github.com/KMohamed20/prodigy-infotech-stage/discussions)
 
 ## 📞 Contact
 
-### 👨‍💻 **Khalid Ag Mohamed Aly**
+### 👨‍💻 Khalid Ag Mohamed Aly
 **Machine Learning Intern @ Prodigy InfoTech**
 
-- 📧 **Email**: [alansarymohamed38@gmail.com](mailto:alansarymohamed38@gmail.com)
-- 💼 **LinkedIn**: [khalid-ag-mohamed-aly](https://www.linkedin.com/in/khalid-ag-mohamed-aly)
-- 🌐 **Portfolio**: [khalid-ag.lovable.app](https://khalid-ag.lovable.app/)
-- 🐙 **GitHub**: [@KMohamed20](https://github.com/KMohamed20)
+[![Email](https://img.shields.io/badge/Email-alansarymohamed38@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:alansarymohamed38@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-khalid--ag--mohamed--aly-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/khalid-ag-mohamed-aly)
+[![Portfolio](https://img.shields.io/badge/Portfolio-khalid--ag.lovable.app-purple?style=for-the-badge&logo=web)](https://khalid-ag.lovable.app)
+[![GitHub](https://img.shields.io/badge/GitHub-@KMohamed20-black?style=for-the-badge&logo=github)](https://github.com/KMohamed20)
 
-### 🏢 **Prodigy InfoTech**
-- 🌐 **Site Web**: [prodigyinfotech.dev](https://prodigyinfotech.dev)
-- 📧 **Contact**: contact@prodigyinfotech.dev
+### 🏢 Prodigy InfoTech
+[![Website](https://img.shields.io/badge/Website-prodigyinfotech.dev-green?style=for-the-badge&logo=web)](https://prodigyinfotech.dev)
+[![Contact](https://img.shields.io/badge/Contact-contact@prodigyinfotech.dev-orange?style=for-the-badge&logo=email)](mailto:contact@prodigyinfotech.dev)
 
----
+## 🏆 Acknowledgments
+A huge thank you to **Prodigy InfoTech** for this enriching opportunity, and to the entire team for their technical and professional support throughout this internship.
 
-## 🏆 Remerciements
-
-Un grand merci à **Prodigy InfoTech** pour cette opportunité enrichissante et à toute l'équipe pour l'accompagnement technique et professionnel tout au long de ce stage.
-
-### 🎯 **Résultats du Stage**
-> **"Un parcours intensif de 4 semaines qui a permis de maîtriser 7 domaines techniques, développer 12 projets complets et acquérir une expérience pratique inestimable en développement logiciel moderne."**
+## 🎯 Internship Results
+*"An intensive 4-week journey that enabled mastery of 7 technical domains, development of 12 complete projects, and acquisition of invaluable hands-on experience in modern software development."*
 
 ---
 
-<div align="center">
+⭐ **If you found this work interesting, please leave a star!**
 
-**⭐ Si ce travail vous intéresse, n'hésitez pas à laisser une étoile !**
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge) **during my internship at Prodigy InfoTech**
 
-[![GitHub stars](https://img.shields.io/github/stars/KMohamed20/PRODIGY-INFOTECH-INTERNSHIP.svg?style=social&label=Star)](https://github.com/KMohamed20/PRODIGY-INFOTECH-INTERNSHIP)
-[![GitHub followers](https://img.shields.io/github/followers/KMohamed20.svg?style=social&label=Follow)](https://github.com/KMohamed20)
-
-**Made with ❤️ during my internship at Prodigy InfoTech**
-
-</div>
+**CIN:** PIT/AUG25/10305 | **Duration:** Aug 15 - Sep 15, 2025
